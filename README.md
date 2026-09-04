@@ -10,3 +10,9 @@ Brad Pitt is my favorite actor because of his **versatile acting** and **strong 
 1. Fight Club
 2. Troy
 3. Once Upon a Time in Hollywood
+
+### My Favorite Songs
+
+- Until I Found You - Stephen Sanchez
+- Blinding Lights - The Weeknd
+- Counting Stars - OneRepublic
