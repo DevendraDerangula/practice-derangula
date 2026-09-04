@@ -16,3 +16,6 @@ Brad Pitt is my favorite actor because of his **versatile acting** and **strong 
 - Until I Found You - Stephen Sanchez
 - Blinding Lights - The Weeknd
 - Counting Stars - OneRepublic
+---
+
+[Learn more about my favorite city: San Diego](MyCity.md)
