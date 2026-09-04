@@ -31,3 +31,17 @@ There are several cities I would like to visit in the future. Each city offers s
 | Miami | I would like to enjoy the beaches, warm weather, and nightlife. | 2,730 miles | $250–$450 |
 | Seattle | I want to see the Space Needle and explore the Pacific Northwest. | 1,250 miles | $150–$300 |
 | Chicago | I want to experience the city's architecture, food, and famous landmarks. | 2,050 miles | $200–$400 |
+
+---
+
+## My Favorite Jokes
+
+Here are two jokes and sayings from people I enjoy:
+
+**Albert Einstein**
+
+> "The important thing is not to stop questioning. Curiosity has its own reason for existing."
+
+**Oscar Wilde**
+
+> "Be yourself; everyone else is already taken."
