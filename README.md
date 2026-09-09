@@ -45,3 +45,25 @@ Here are two jokes and sayings from people I enjoy:
 **Oscar Wilde**
 
 > "Be yourself; everyone else is already taken."
+
+---
+
+## Java Code Snippet
+
+This Java snippet is from a `LinkedList` implementation. It shows how a new object is added to the end of the linked list by creating a new node, updating the tail, and increasing the list size.
+
+```java
+public void add(Object obj){
+    Node newNode = new Node(obj, null);
+
+    if(size == 0)
+        head = newNode;
+    else
+        tail.setNext(newNode);
+
+    tail = newNode;
+    size++;
+}
+```
+
+[Source: LinkedList Code Snippet](https://www.cs.utexas.edu/~scottm/cs307/javacode/codeSamples/LinkedList.java)
